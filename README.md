@@ -12,10 +12,10 @@ Features:
 - Uses Promise
 
 Supported http methods:
-- GET | Rest.get(url, options);
-- POST | Rest.post(url, options);
-- PUT | Rest.put(url, options);
-- DELETE | Rest.delete(url, options);
+- GET | Rest.get(options);
+- POST | Rest.post(options);
+- PUT | Rest.put(options);
+- DELETE | Rest.delete(options);
 
 TODO:
 - Support for file upload;
