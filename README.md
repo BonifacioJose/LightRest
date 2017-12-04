@@ -1,5 +1,5 @@
 # LightRest
-LightRest is a http client for JavaScript focused on be as simple and thin as possible.
+LightRest is a http client for JavaScript focused on be as simple and thin (1kb) as possible.
 
 The main purpose behind LightRest is to offer the most easy and simple "plug-and-play" experience for http calls.
 
@@ -21,8 +21,13 @@ TODO:
 - Support for file upload;
 
 
-
 How to use:
+Download the min file (https://goo.gl/PUKjy4), place in any folder of your project and import it with the <script> tag:
+        
+    <script src="/lightrest.min.js"></script>
+        
+
+Calling function:
 
 GET:
 
